@@ -1,1 +1,36 @@
+.b-h2-heder{
+    background-color: black;
+    
+    color: white
+    
+}.b-color-p{
+    margin: 0PX;
+    font-size: 12px;
+    color:#ed6000;
+}
 
+.ima-1mac{
+    height: 30rem;
+    position: relative;
+}
+
+.b-bg-beige{
+    background-color: #f2f2f2;
+}
+
+.b-bg-beige-claro{
+    background-color: #fafafa;
+}
+
+.b-border-bottom{
+border-bottom: solid #cccccd 1px;
+}
+
+li.b-border-bottom:hover{
+    border-bottom: solid #000000 2px;
+}
+
+.b-iconos-style{
+    height: 5rem;
+
+}
