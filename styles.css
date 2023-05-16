@@ -1,21 +1,25 @@
 .b-h2-heder{
-    background-color: black;
-    
+    background-color: black;    
     color: white
     
 }.b-color-p{
     margin: 0PX;
-    font-size: 12px;
+    font-size: 15px;
     color:#ed6000;
 }
 
+.b-color-p2{
+    margin: 0PX;
+    font-size: 8px;
+    color:#ed6000;
+}
 .ima-1mac{
     height: 30rem;
     position: relative;
 }
 
 .b-bg-beige{
-    background-color: #f2f2f2;
+    background-color: #faf9fe;
 }
 
 .b-bg-beige-claro{
@@ -32,5 +36,52 @@ li.b-border-bottom:hover{
 
 .b-iconos-style{
     height: 5rem;
-
 }
+
+.b-bg-img{
+    background-image: url("imagenes/personas-apple.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 30rem;
+    
+}
+
+.b-bg-img2{
+    background-image: url("imagenes/personas-apple2.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 30rem;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.b-footer-styles{
+    font-size: 13px;    
+}
+
+.b-font-heder{
+    font-size: 12px;
+}
+
+.mi-boton{
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 25px;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.b-btn-border-radius{
+    border-radius: 25px;
+    border: none;
+    font-size: 18px;
+}
+
+ol{font-size: 10px;}
